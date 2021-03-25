@@ -8,5 +8,6 @@ The goal of this repository is to study and implement design patterns to improve
 * Builder
 * Composite
 * Facade
+* Observer
 * Singleton
 * Strategy
